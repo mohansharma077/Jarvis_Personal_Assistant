@@ -66,7 +66,7 @@ def run_jarvis():
     elif 'thank' in command:
         talk('Thanks for using me sir, Have a good day sir')
     elif 'virgin' in command:
-        talk('No, government and life fucks me daily.')
+        talk('No, government and life f*ks me daily.')
     elif 'temperature' in command:
         search="temperature in Kathmamdu"
         url=f"https://www.google.com/search?q={search}"
